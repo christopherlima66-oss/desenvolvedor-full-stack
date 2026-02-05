@@ -21,6 +21,14 @@ Estou começando a aprender:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherlima66)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherlima66&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISTOPHERLIMA66&layout=compact&theme=tokyonight)
+
+</div>
+
+
  Contate-me:
 
 <a href="www.linkedin.com/in/christopher-lima-866b99302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="linkendin"/></a>
