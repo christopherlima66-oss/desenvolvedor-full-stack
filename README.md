@@ -17,16 +17,11 @@ Estou começando a aprender:
  <br>
  <br>
  
-[![Christopher stats](https://github-readme-stats.vercel.app/api?username=christopherlima66-oss)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherlima66)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherlima6-oss6&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherlima66-oss&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherlima66&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISTOPHERLIMA66&layout=compact&theme=tokyonight)
-
-</div>
 
 
  Contate-me:
